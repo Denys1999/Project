@@ -1,0 +1,125 @@
+.clearfix{
+	content:'';
+	display: table;
+	width: 100%;
+	clear: both;
+}
+
+header{
+	font-family: calibri,sans-serif;
+	background: url('E:/KURSI/img/Rectangle 1.png') no-repeat center top / cover;
+	height: 118px;
+}
+body{
+	margin: 0;
+	padding: 0;
+}
+div{
+	box-sizing: border-box;
+}
+.container{
+	width: 1410px;
+	margin: 0 auto;
+}
+
+.logo{
+	padding: 35px 0 26px 15px;
+	float: left;
+}
+.logo3{
+	padding: 35px 0 26px 15px;
+	float: right;
+}
+nav{
+	margin-top: 78px;
+	float: right;
+
+}
+.menu{
+	margin: 0;
+	padding:0px;
+	display: block;
+}
+.menu li{
+	float: left;
+	display: block;
+	margin-right: 31px;
+	font-size: 18px;
+
+
+}
+
+.menu li a{
+	color: #494848;
+	text-decoration: none;
+}
+.logo2{
+	float: left;
+	padding :35px 0 26px 27px;
+	color: #fff;
+	text-decoration: none;
+	font-size: 18px;
+
+}
+.text1{
+	margin-top: 120px;
+	float: right;
+	text-align: right;
+	margin-right: 15px;
+	font-size: 18px;
+	font-family: Calibri,sans-serif;	
+}
+.contbackgr{
+background: url('E:/KURSI/img/Layer 1.png') no-repeat center top / cover;
+height: 516px;
+color: #555557;
+}
+
+h1 {
+	margin-top:60px  0 140px 0;
+	text-align: right;
+	font-size: 25px;
+	font-family: Calibri,sans-serif;
+
+}
+input:{
+	margin-top: 0px;
+	margin-right: 120px ; 
+	background: white;
+	color: #555557 
+	border-radius:3px;
+}
+.blockst{
+ float: left;
+ width: 352.4px;
+ height: 323px;
+ margin: 0 auto;
+ text-align: center;
+ background: url('E:/KURSI/img/Rectangle 8.png');
+ padding-top: 66px;
+}
+h2,h3{
+font-family: Myriad Pro,sans-serif;
+color:#fff;
+}
+h3{
+font-size: 15px;
+}
+h2{
+	font-size: 20px;
+}
+.container2{
+display:flex;
+flex-direction: column;
+justify-content: center;
+width: 1410px;
+}
+.flexblock{
+	display: block;
+background: gray;
+width:690px;
+height: 282px;
+align-items: center;
+}
+
+
